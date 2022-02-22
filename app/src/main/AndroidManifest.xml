@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahKu">
         <activity
+            android:name=".Anggota2Activity"
+            android:exported="false" />
+        <activity
             android:name=".anggota1Activity"
             android:exported="false" />
         <activity
