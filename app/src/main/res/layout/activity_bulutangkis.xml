@@ -8,10 +8,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
+        android:layout_width="400dp"
         android:layout_height="0dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/player"
+        android:src="@drawable/minton"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHeight_percent=".32"
@@ -64,7 +64,7 @@
                             android:textColor="#000"
                             android:textSize="18sp"
                             android:textStyle="bold"
-                            android:text="ORGANISASI FUTSAL"/>
+                            android:text="ORGANISASI BULUTANGKIS"/>
 
                         <TextView
                             android:layout_width="wrap_content"
