@@ -112,7 +112,7 @@
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold"
-                    android:text="LAB IPA"/>
+                    android:text="LABORATORIUM IPA"/>
 
                 <TextView
                     android:textAlignment="center"
@@ -169,7 +169,7 @@
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold"
-                    android:text="LAB KOMPUTER"/>
+                    android:text="LABORATORIUM KOMPUTER"/>
 
                 <TextView
                     android:textAlignment="center"
