@@ -70,8 +70,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="20dp"
                     android:textColor="@color/black"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed. Leo a diam sollicitudin tempor id eu nisl nunc. Sed nisi lacus sed viverra. Tristique senectus et netus et. Elit at imperdiet dui accumsan sit amet. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan. Turpis cursus in hac habitasse platea dictumst quisque sagittis."/>
-
+                    android:text="Pramuka merupakan sebutan bagi anggota Gerakan Pramuka, yang meliputi; Pramuka Siaga (7–10 tahun), Pramuka Penggalang (11–15 tahun), Pramuka Penegak (16–20 tahun) dan Pramuka Pandega (21-25 tahun). Kelompok anggota yang lain yaitu Pembina Pramuka, Andalan Pramuka, Korps Pelatih Pramuka, Pamong Saka Pramuka, Staf Kwartir dan Majelis Pembimbing."/>
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>

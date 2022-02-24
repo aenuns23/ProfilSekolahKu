@@ -46,4 +46,14 @@ public class GaleriActivity extends AppCompatActivity {
         Intent intent = new Intent(GaleriActivity.this, AlbumpmrActivity.class);
         startActivity(intent);
     }
+
+    public void albumfutsal(View view) {
+        Intent intent = new Intent(GaleriActivity.this, AlbumfutsalActivity.class);
+        startActivity(intent);
+    }
+
+    public void albumbulutangkis(View view) {
+        Intent intent = new Intent(GaleriActivity.this, AlbumbulutangkisActivity.class);
+        startActivity(intent);
+    }
 }
