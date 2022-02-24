@@ -17,7 +17,7 @@
             android:layout_height="140dp"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:src="@drawable/profilsmkypt"/>
+            android:src="@drawable/logosmp1pangkah"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
             android:textStyle="bold"
             android:layout_marginTop="10dp"
             android:textColor="@color/black"
-            android:text="SMK YPT KOTA TEGAL"/>
+            android:text="SMP NEGERI 1 PANGKAH"/>
 
     </LinearLayout>
 
