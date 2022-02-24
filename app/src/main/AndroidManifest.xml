@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahKu">
         <activity
+            android:name=".BulutangkisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FutsalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
+            android:exported="false" />
+        <activity
             android:name=".AlbumpramukaActivity"
             android:exported="false" />
         <activity
