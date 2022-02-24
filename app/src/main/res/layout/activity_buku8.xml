@@ -28,7 +28,7 @@
                     android:layout_weight="1"
                     android:textSize="27sp"
                     android:textStyle="bold"
-                    android:text="KATALOG BUKU KELAS VII"/>
+                    android:text="KATALOG BUKU KELAS VIII"/>
 
                 <RelativeLayout
                     android:layout_width="10dp"
