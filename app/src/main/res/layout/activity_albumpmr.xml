@@ -70,8 +70,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="20dp"
                     android:textColor="@color/black"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed. Leo a diam sollicitudin tempor id eu nisl nunc. Sed nisi lacus sed viverra. Tristique senectus et netus et. Elit at imperdiet dui accumsan sit amet. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan. Turpis cursus in hac habitasse platea dictumst quisque sagittis."/>
-
+                    android:text="Palang Merah Remaja (disingkat PMR) adalah wadah pembinaan dan pengembangan anggota remaja PMI, yang selanjutnya disebut PMR.Terdapat di PMI kota atau kabupaten di seluruh Indonesia, dengan anggota lebih dari 5 juta orang, anggota PMR merupakan salah satu kekuatan PMI dalam melaksanakan kegiatan-kegiatan kemanusiaan dibidang kesehatan dan siaga bencana, mempromosikan prinsip-prinsip dasar gerakan palang merah dan bulan sabit merah internasional, serta mengembangkan kapasitas organisasi PMI"/>
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AlbumhutriActivity">
+    tools:context=".AlbumfutsalActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/hut2"/>
+                        android:src="@drawable/futsal2"/>
 
                     <RelativeLayout
                         android:layout_width="7dp"
@@ -60,7 +60,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="5dp"
                     android:textColor="@color/black"
-                    android:text="PERAYAAN HUT RI"/>
+                    android:text="LOMBA FUTSAL"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -70,7 +70,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="20dp"
                     android:textColor="@color/black"
-                    android:text="Hari Kemerdekaan Republik Indonesia (nama lain: Hari Ulang Tahun Kemerdekaan RI disingkat HUT RI), bahasa sehari-hari: Tujuhbelasan adalah hari libur nasional di Indonesia untuk memperingati Proklamasi Kemerdekaan Republik Indonesia pada 17 Agustus 1945."/>
+                    android:text="Futsal adalah permainan bola yang dimainkan oleh dua tim, yang masing-masing beranggotakan lima orang. Tujuannya adalah memasukkan bola ke gawang lawan. Selain lima pemain utama, setiap regu juga diizinkan memiliki pemain cadangan. Futsal dipopulerkan di Montevideo, Uruguay pada Tahun 1930, oleh Juan Carlos Ceriani. Keunikan futsal mendapat perhatian di seluruh Amerika Selatan, terutamanya di Brasil. Ketrampilan yang dikembangkan dalam permainan ini dapat dilihat dalam gaya terkenal dunia yang diperlihatkan pemain-pemain Brasil di luar ruangan, pada lapangan berukuran biasa. Pele, bintang terkenal Brasil, contohnya, mengembangkan bakatnya di futsal. Sementara Brasil terus menjadi pusat futsal dunia, permainan ini sekarang dimainkan di bawah perlindungan Federation Internationale de Football Association di seluruh dunia, dari Eropa hingga Amerika Tengah dan Amerika Utara serta Afrika, Asia, dan Osenia."/>
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>

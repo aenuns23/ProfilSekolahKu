@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AlbumhutriActivity">
+    tools:context=".AlbumbulutangkisActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/hut2"/>
+                        android:src="@drawable/bulutangkis2"/>
 
                     <RelativeLayout
                         android:layout_width="7dp"
@@ -60,7 +60,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="5dp"
                     android:textColor="@color/black"
-                    android:text="PERAYAAN HUT RI"/>
+                    android:text="LOMBA BULUTANGKIS"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -70,7 +70,7 @@
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="20dp"
                     android:textColor="@color/black"
-                    android:text="Hari Kemerdekaan Republik Indonesia (nama lain: Hari Ulang Tahun Kemerdekaan RI disingkat HUT RI), bahasa sehari-hari: Tujuhbelasan adalah hari libur nasional di Indonesia untuk memperingati Proklamasi Kemerdekaan Republik Indonesia pada 17 Agustus 1945."/>
+                    android:text="Bulu tangkis atau badminton (bahasa Inggris: badminton) adalah suatu olahraga yang menggunakan alat yang berbentuk bulat dengan memiliki rongga-rongga di bagian pemukulnya. Dan memiliki gagang. Alat ini dikenal dengan nama raket yang dimainkan oleh dua orang (untuk tunggal) atau dua pasangan (untuk ganda) yang saling berlawanan. Mirip dengan tenis, bulu tangkis bertujuan memukul bola permainan bulu tangkis, yaitu kok (shuttlecock) melewati jaring agar jatuh di bidang permainan lawan yang sudah ditentukan dan berusaha mencegah lawan melakukan hal yang sama."/>
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>
