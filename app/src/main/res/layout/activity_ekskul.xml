@@ -56,14 +56,13 @@
                             android:id="@+id/mainGrid"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:layout_weight="9"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="9"
                             android:alignmentMode="alignMargins"
                             android:columnCount="1"
                             android:columnOrderPreserved="false">
                             <!--                            PEMBUKA MENU1-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="osis"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
@@ -72,6 +71,7 @@
                                 android:layout_marginTop="3dp"
                                 android:layout_marginRight="12dp"
                                 android:layout_marginBottom="12dp"
+                                android:onClick="osis"
                                 app:cardCornerRadius="8dp"
                                 app:cardElevation="8dp">
 
@@ -84,11 +84,12 @@
                                     <ImageView
                                         android:layout_width="100dp"
                                         android:layout_height="100dp"
-                                        android:layout_margin="10dp"
                                         android:layout_gravity="center"
+                                        android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
                                         android:src="@drawable/logoosis">
+
                                     </ImageView>
 
                                     <TextView
@@ -104,7 +105,6 @@
                             <!--                            PENUTUP MENU1-->
                             <!--                            PEMBUKA MENU2-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="pramuka"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
@@ -113,6 +113,7 @@
                                 android:layout_marginTop="3dp"
                                 android:layout_marginRight="12dp"
                                 android:layout_marginBottom="12dp"
+                                android:onClick="pramuka"
                                 app:cardCornerRadius="8dp"
                                 app:cardElevation="8dp">
 
@@ -125,11 +126,12 @@
                                     <ImageView
                                         android:layout_width="100dp"
                                         android:layout_height="100dp"
-                                        android:layout_margin="10dp"
                                         android:layout_gravity="center"
+                                        android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
                                         android:src="@drawable/logopramuka">
+
                                     </ImageView>
 
                                     <TextView
@@ -145,7 +147,6 @@
                             <!--                            PENUTUP MENU2-->
                             <!--                            PEMBUKA MENU3-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="pmr"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
@@ -154,6 +155,7 @@
                                 android:layout_marginTop="3dp"
                                 android:layout_marginRight="12dp"
                                 android:layout_marginBottom="12dp"
+                                android:onClick="pmr"
                                 app:cardCornerRadius="8dp"
                                 app:cardElevation="8dp">
 
@@ -162,14 +164,16 @@
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
                                     android:orientation="horizontal">
+
                                     <ImageView
                                         android:layout_width="100dp"
                                         android:layout_height="100dp"
-                                        android:layout_margin="10dp"
                                         android:layout_gravity="center"
+                                        android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
                                         android:src="@drawable/logopmr">
+
                                     </ImageView>
 
                                     <TextView
@@ -185,7 +189,6 @@
                             <!--                            PENUTUP MENU3-->
                             <!--                            PEMBUKA MENU4-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="futsal"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
@@ -194,6 +197,7 @@
                                 android:layout_marginTop="3dp"
                                 android:layout_marginRight="12dp"
                                 android:layout_marginBottom="12dp"
+                                android:onClick="futsal"
                                 app:cardCornerRadius="8dp"
                                 app:cardElevation="8dp">
 
@@ -202,14 +206,16 @@
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
                                     android:orientation="horizontal">
+
                                     <ImageView
                                         android:layout_width="100dp"
                                         android:layout_height="100dp"
-                                        android:layout_margin="10dp"
                                         android:layout_gravity="center"
+                                        android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
                                         android:src="@drawable/logofutsal">
+
                                     </ImageView>
 
                                     <TextView
@@ -225,7 +231,6 @@
                             <!--                            PENUTUP MENU4-->
                             <!--                            PEMBUKA MENU5-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="bulutangkis"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
@@ -234,6 +239,7 @@
                                 android:layout_marginTop="3dp"
                                 android:layout_marginRight="12dp"
                                 android:layout_marginBottom="12dp"
+                                android:onClick="bulutangkis"
                                 app:cardCornerRadius="8dp"
                                 app:cardElevation="8dp">
 
@@ -242,14 +248,16 @@
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
                                     android:orientation="horizontal">
+
                                     <ImageView
                                         android:layout_width="100dp"
                                         android:layout_height="100dp"
-                                        android:layout_margin="10dp"
                                         android:layout_gravity="center"
+                                        android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
                                         android:src="@drawable/badminton">
+
                                     </ImageView>
 
                                     <TextView
