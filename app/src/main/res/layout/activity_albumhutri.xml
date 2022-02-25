@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/hut2"/>
+                        android:src="@drawable/tariktambang"/>
 
                     <RelativeLayout
                         android:layout_width="7dp"

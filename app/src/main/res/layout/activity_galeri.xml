@@ -35,19 +35,19 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/hut2"/>
+                        android:src="@drawable/tariktambang"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/tentinovianti"/>
+                        android:src="@drawable/kgiatanpmr"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/rizki"/>
+                        android:src="@drawable/futsal2"/>
 
                 </ViewFlipper>
 
@@ -57,8 +57,8 @@
                 android:id="@+id/mainGrid"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="9"
                 android:layout_gravity="center_horizontal"
+                android:layout_weight="9"
                 android:alignmentMode="alignMargins"
                 android:columnCount="1"
                 android:columnOrderPreserved="false">
@@ -73,9 +73,9 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginRight="12dp"
                     android:layout_marginBottom="12dp"
+                    android:onClick="albumhutri"
                     app:cardCornerRadius="8dp"
-                    app:cardElevation="8dp"
-                    android:onClick="albumhutri">
+                    app:cardElevation="8dp">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -86,20 +86,18 @@
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
-                            android:layout_margin="10dp"
                             android:layout_gravity="center"
+                            android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/albumhutri">
-                        </ImageView>
+                            android:src="@drawable/albumhutri"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM KEGIATAN HUT RI">
-                        </TextView>
+                            android:text="ALBUM KEGIATAN HUT RI"/>
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
                 <!--                            PEMBUKA MENU 2-->
@@ -112,9 +110,9 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginRight="12dp"
                     android:layout_marginBottom="12dp"
+                    android:onClick="albumpramuka"
                     app:cardCornerRadius="8dp"
-                    app:cardElevation="8dp"
-                    android:onClick="albumpramuka">
+                    app:cardElevation="8dp">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -125,20 +123,18 @@
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
-                            android:layout_margin="10dp"
                             android:layout_gravity="center"
+                            android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/albumpramuka">
-                        </ImageView>
+                            android:src="@drawable/logopramuka2"></ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM KEGIATAN PRAMUKA">
-                        </TextView>
+                            android:text="ALBUM KEGIATAN PRAMUKA"></TextView>
                     </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
@@ -152,9 +148,9 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginRight="12dp"
                     android:layout_marginBottom="12dp"
+                    android:onClick="albumpmr"
                     app:cardCornerRadius="8dp"
-                    app:cardElevation="8dp"
-                    android:onClick="albumpmr">
+                    app:cardElevation="8dp">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -165,20 +161,18 @@
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
-                            android:layout_margin="10dp"
                             android:layout_gravity="center"
+                            android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/albumpmr">
-                        </ImageView>
+                            android:src="@drawable/logopmr2"></ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM KEGIATAN PMR">
-                        </TextView>
+                            android:text="ALBUM KEGIATAN PMR"></TextView>
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
                 <!--                            PEMBUKA MENU 4-->
@@ -191,9 +185,9 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginRight="12dp"
                     android:layout_marginBottom="12dp"
+                    android:onClick="albumfutsal"
                     app:cardCornerRadius="8dp"
-                    app:cardElevation="8dp"
-                    android:onClick="albumfutsal">
+                    app:cardElevation="8dp">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -204,22 +198,21 @@
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
-                            android:layout_margin="10dp"
                             android:layout_gravity="center"
+                            android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logofutsal">
-                        </ImageView>
+                            android:src="@drawable/logofutsal2"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM FUTSAL">
-                        </TextView>
+                            android:text="ALBUM FUTSAL"/>
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
+
                 <androidx.cardview.widget.CardView
                     android:layout_width="150dp"
                     android:layout_height="150dp"
@@ -229,9 +222,9 @@
                     android:layout_marginTop="3dp"
                     android:layout_marginRight="12dp"
                     android:layout_marginBottom="12dp"
+                    android:onClick="albumbulutangkis"
                     app:cardCornerRadius="8dp"
-                    app:cardElevation="8dp"
-                    android:onClick="albumbulutangkis">
+                    app:cardElevation="8dp">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -242,20 +235,18 @@
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
-                            android:layout_margin="10dp"
                             android:layout_gravity="center"
+                            android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logobadminton">
-                        </ImageView>
+                            android:src="@drawable/logobadminton"></ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM BULUTANGKIS">
-                        </TextView>
+                            android:text="ALBUM BULUTANGKIS"></TextView>
                     </LinearLayout>
 
                 </androidx.cardview.widget.CardView>

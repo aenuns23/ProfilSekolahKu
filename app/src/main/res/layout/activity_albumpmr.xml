@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/pmr1"/>
+                        android:src="@drawable/kgiatanpmr"/>
 
                     <RelativeLayout
                         android:layout_width="7dp"
