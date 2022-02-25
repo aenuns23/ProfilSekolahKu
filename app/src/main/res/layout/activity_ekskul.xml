@@ -214,7 +214,7 @@
                                         android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
-                                        android:src="@drawable/logofutsal">
+                                        android:src="@drawable/logofutsal2">
 
                                     </ImageView>
 
