@@ -77,7 +77,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="MATEMATIKA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -108,13 +108,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bind8"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="BHS INDONESIA"/>
+                                android:text="BAHASA INDONESIA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -145,13 +145,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bing8"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="IPA"/>
+                                android:text="BAHASA INGGRIS"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -182,13 +182,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/ipa8"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="IPA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -219,7 +219,6 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="DAFTAR BUKU"
                     android:textStyle="bold"/>
 
                 <!--                baris1-->
@@ -252,7 +251,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="MATEMATIKA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -282,13 +281,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bind8"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="BAHASA INDONESIA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -318,13 +317,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bing8"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="BAHASA INGGRIS"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -354,13 +353,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/ipa8"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="IPA"/>
 
                             <Button
                                 android:layout_width="match_parent"
