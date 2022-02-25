@@ -26,13 +26,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
+                    android:text="KATALOG BUKU KELAS VII"
                     android:textSize="27sp"
-                    android:textStyle="bold"
-                    android:text="KATALOG BUKU KELAS VII"/>
+                    android:textStyle="bold" />
 
                 <RelativeLayout
                     android:layout_width="10dp"
-                    android:layout_height="match_parent"/>
+                    android:layout_height="match_parent" />
             </LinearLayout>
 
             <LinearLayout
@@ -45,7 +45,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="DAFTAR BUKU"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold" />
 
                 <!--                baris1-->
                 <HorizontalScrollView
@@ -71,13 +71,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/matematika7"/>
+                                android:src="@drawable/matematika7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="MATEMATIKA" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -91,7 +91,7 @@
                                 android:linksClickable="true"
                                 android:onClick="mtk7"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                         <!--                        buku 1-->
@@ -108,13 +108,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/buku7"/>
+                                android:src="@drawable/buku7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="BAHASA INDONESIA"/>
+                                android:text="BAHASA INDONESIA" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -128,7 +128,7 @@
                                 android:linksClickable="true"
                                 android:onClick="bind"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                         <!--                        buku 1-->
@@ -145,13 +145,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/bing7"/>
+                                android:src="@drawable/bing7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="BAHASA INGGRIS"/>
+                                android:text="BAHASA INGGRIS" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -165,7 +165,7 @@
                                 android:linksClickable="true"
                                 android:onClick="ipa"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                         <!--                        buku 1-->
@@ -182,13 +182,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/ipa7"/>
+                                android:src="@drawable/ipa8" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="IPA"/>
+                                android:text="IPA" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -201,7 +201,7 @@
                                 android:cursorVisible="true"
                                 android:linksClickable="true"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                     </LinearLayout>
@@ -210,6 +210,7 @@
 
 
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
@@ -219,7 +220,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold" />
 
                 <!--                baris1-->
                 <HorizontalScrollView
@@ -245,13 +246,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/matematika7"/>
+                                android:src="@drawable/matematika7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATUIKA"/>
+                                android:text="MATEMATIKA" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -264,7 +265,7 @@
                                 android:cursorVisible="true"
                                 android:linksClickable="true"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                         <!--                        buku 1-->
@@ -281,13 +282,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/buku7"/>
+                                android:src="@drawable/buku7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="BAHASA INDONESIA"/>
+                                android:text="BAHASA INDONESIA" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -300,7 +301,7 @@
                                 android:cursorVisible="true"
                                 android:linksClickable="true"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                         <!--                        buku 1-->
@@ -317,13 +318,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/bing7"/>
+                                android:src="@drawable/bing7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="BAHASA INGGRIS"/>
+                                android:text="BAHASA INGGRIS" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -336,7 +337,7 @@
                                 android:cursorVisible="true"
                                 android:linksClickable="true"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                         <!--                        buku 1-->
@@ -353,13 +354,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/ipa7"/>
+                                android:src="@drawable/ipa7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="IPA"/>
+                                android:text="IPA" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -372,7 +373,7 @@
                                 android:cursorVisible="true"
                                 android:linksClickable="true"
                                 android:text="BACA"
-                                android:textColor="@color/white"/>
+                                android:textColor="@color/white" />
                         </LinearLayout>
                         <!--                        penutup buku 1-->
                     </LinearLayout>

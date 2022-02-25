@@ -14,9 +14,10 @@ import com.smarteist.autoimageslider.SliderView;
 
 public class MainActivity extends AppCompatActivity {
     SliderView sliderView;
-    int[] images = {R.drawable.ekskul1,
-            R.drawable.header,
+    int[] images = {R.drawable.pngkhh,
+            R.drawable.smp1pangkah,
             R.drawable.profilsekolahsmp,
+            R.drawable.smpn1pangkahtegal,
     };
 
 
